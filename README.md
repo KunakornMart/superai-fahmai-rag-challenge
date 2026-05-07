@@ -7,7 +7,6 @@
 ![Thai NLP](https://img.shields.io/badge/Thai%20NLP-Question%20Answering-2EC866)
 ![Super AI Engineer](https://img.shields.io/badge/Super%20AI%20Engineer-Season%206-F36F21)
 ![Score](https://img.shields.io/badge/Score-1.00-EDB227)
-![Rank](https://img.shields.io/badge/Rank-17%20%2F%20341-529EFF)
 
 ---
 
