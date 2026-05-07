@@ -43,8 +43,8 @@ Each question contains **10 answer choices**.
 | Choice | Meaning |
 |---:|---|
 | 1–8 | Content-specific answers |
-| 9 | ไม่มีข้อมูลนี้ในฐานข้อมูล |
-| 10 | คำถามนี้ไม่เกี่ยวข้องกับร้านฟ้าใหม่ |
+| 9 | No data available in the knowledge base |
+| 10 | This question is not related to FahMai store |
 
 The system must retrieve relevant evidence from the knowledge base and select the correct answer choice.
 
