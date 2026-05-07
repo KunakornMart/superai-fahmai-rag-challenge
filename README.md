@@ -17,7 +17,6 @@
 | Competition | **Super AI Engineer Season 6 – FahMai RAG Challenge (Level 1)** |
 | Task | Thai RAG / Multiple-choice Question Answering |
 | Final Score | **1.00** |
-| Rank | **17 / 341 participants** |
 | Evaluation Metric | Accuracy |
 | Organizer | Artificial Intelligence Association of Thailand (AIAT) |
 | Certificate | [Verify credential](https://mysuperai.aiat.or.th/certificate/hack3/600637) |
